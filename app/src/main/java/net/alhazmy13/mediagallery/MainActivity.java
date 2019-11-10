@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements MediaGalleryView.
         Bitmap image = Bitmap.createBitmap(500, 500, Bitmap.Config.ARGB_8888);
         image.eraseColor(android.graphics.Color.GREEN);
         imagesList.add(bitMapToString(image));
-        imagesList.add("http://static0.passel.co/wp-content/uploads/2016/12/23193634/tumblr_oiboua3s6F1slhhf0o1_500.jpg");
+        imagesList.add("https://media.ouest-france.fr/v1/pictures/MjAxOTExODEzMTUxYmVkMGVlYjc3M2RhYjZiNTdmMGI2NDlhNjk?width=940&focuspoint=43%2C57&cropresize=1&client_id=bpeditorial&sign=9fb5f4f83f719636f3074497501fa50b6fcb1fe7a65e78701cae99c5d5328798");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/08192732/tumblr_oev1qbnble1ted1sho1_500.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/18184202/tumblr_ntyttsx2Y51ted1sho1_500.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/25093310/2016-03-01-roman-drits-barnimages-008-768x512.jpg");
