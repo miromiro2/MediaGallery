@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements MediaGalleryView.
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/25093310/2016-03-01-roman-drits-barnimages-008-768x512.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/25093331/tumblr_ofz20toUqd1ted1sho1_500.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/25093334/2016-11-21-roman-drits-barnimages-003-768x512.jpg");
-        imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/02093356/DSF1919-768x512.jpg");
+        imagesList.add("https://media.ouest-france.fr/v1/pictures/MjAxOTExODEzMTUxYmVkMGVlYjc3M2RhYjZiNTdmMGI2NDlhNjk?width=940&focuspoint=43%2C57&cropresize=1&client_id=bpeditorial&sign=9fb5f4f83f719636f3074497501fa50b6fcb1fe7a65e78701cae99c5d5328798");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/02093347/2016-11-21-roman-drits-barnimages-009-768x512.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/12/16094158/2016-12-05-roman-drits-barnimages-011-768x512.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/12/16094159/tumblr_o2z8oh0Ntt1ted1sho1_1280-683x1024.jpg");
