@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity implements MediaGalleryView.
         Bitmap image = Bitmap.createBitmap(500, 500, Bitmap.Config.ARGB_8888);
         image.eraseColor(android.graphics.Color.GREEN);
         imagesList.add(bitMapToString(image));
-        imagesList.add("http://static0.passel.co/wp-content/uploads/2016/12/23193634/tumblr_oiboua3s6F1slhhf0o1_500.jpg");
-        imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/08192732/tumblr_oev1qbnble1ted1sho1_500.jpg");
+        imagesList.add("https://i.ibb.co/PGBXsfL/tjo40nn.jpg");
+        imagesList.add("https://i.ibb.co/8D7gHrW/smalltemp.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/18184202/tumblr_ntyttsx2Y51ted1sho1_500.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/25093310/2016-03-01-roman-drits-barnimages-008-768x512.jpg");
         imagesList.add("http://static0.passel.co/wp-content/uploads/2016/11/25093310/2016-03-01-roman-drits-barnimages-008-768x512.jpg");
